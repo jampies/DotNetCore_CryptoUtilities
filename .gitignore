@@ -1,0 +1,7 @@
+# User-specific files
+*.orig
+.vscode
+
+#Build files
+bin
+obj
