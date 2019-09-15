@@ -1,5 +1,7 @@
 # CryptoUtilities
 
+![](https://travis-ci.org/jampies/DotNetCore_CryptoUtilities.svg?branch=master)
+
 A few useful cryptography related functions.
 
 Nuget package available here: https://www.nuget.org/packages/CryptoUtilities/
